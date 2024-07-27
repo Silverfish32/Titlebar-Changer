@@ -1,0 +1,23 @@
+{
+  "gui.titlebar_settings": "Window Settings",
+
+  "gui.window_theme_dark": "Theme: Dark",
+  "gui.window_theme_light": "Theme: Light",
+  "gui.window_theme_custom": "Theme: Custom",
+  "gui.window_style_rectangular": "Window Corner: Rectangular",
+  "gui.window_style_default": "Window Corner: Default",
+  "gui.window_style_semi_rounded": "Window Corner: Semi Rounded",
+
+  "gui.set_titlebar_color": "Customize Window Color",
+  "gui.set_titlebar_text_color": "Customize Window Text Color",
+  "gui.set_titlebar_stroke_color": "Customize Window Stroke Color",
+
+  "gui.red": "Red",
+  "gui.green": "Green",
+  "gui.blue": "Blue",
+
+  "gui.warning_title": "Warning",
+  "gui.warning_desc": "Your operating system has an earlier version than is required to use this mod. Some functions may be limited. This message will be shown only once.",
+  "gui.warning_desc_not_suitable": "Your operating system does not meet the requirements for this mod. The mod may not function properly, and some features could be limited. This message will be shown only once.",
+  "gui.close": "Close"
+}

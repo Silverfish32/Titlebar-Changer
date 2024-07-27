@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "net.ittriy.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"WindowCreateMixin",
+		"AddWarnScreen",
+		"AddTitleBarSettingsButton"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

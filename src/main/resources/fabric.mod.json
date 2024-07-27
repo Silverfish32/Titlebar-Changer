@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "titlebar-changer",
+	"version": "${version}",
+	"name": "Titlebar Changer",
+	"description": "Minecraft mod that offers advanced customization of window appearance, including titlebar, title, and border colors. Full functionality is available only on Windows 11; on Windows 10, the mod's features are limited to changing the titlebar color to dark :)",
+	"authors": [
+		"Ittriy"
+	],
+	"contact": {
+		"sources": "https://github.com/Ittriy52/Titlebar-Changer"
+	},
+	"license": "GNU GPL 3.0",
+	"icon": "assets/titlebar-changer/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"net.ittriy.TitlebarChanger"
+		]
+	},
+	"mixins": [
+		"titlebar-changer.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
