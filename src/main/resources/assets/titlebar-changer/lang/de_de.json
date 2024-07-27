@@ -1,0 +1,23 @@
+{
+  "gui.titlebar_settings": "Fenstereinstellungen",
+
+  "gui.window_theme_dark": "Thema: Dunkel",
+  "gui.window_theme_light": "Thema: Hell",
+  "gui.window_theme_custom": "Thema: Benutzerdefiniert",
+  "gui.window_style_rectangular": "Fensterecke: Rechteckig",
+  "gui.window_style_default": "Fensterecke: Standard",
+  "gui.window_style_semi_rounded": "Fensterecke: Halbrund",
+
+  "gui.set_titlebar_color": "Fensterfarbe anpassen",
+  "gui.set_titlebar_text_color": "Fenstertextfarbe anpassen",
+  "gui.set_titlebar_stroke_color": "Fensterkonturfarbe anpassen",
+
+  "gui.red": "Rot",
+  "gui.green": "Grün",
+  "gui.blue": "Blau",
+
+  "gui.warning_title": "Warnung",
+  "gui.warning_desc": "Ihr Betriebssystem hat eine frühere Version als erforderlich, um dieses Mod zu verwenden. Einige Funktionen sind möglicherweise eingeschränkt. Diese Nachricht wird nur einmal angezeigt.",
+  "gui.warning_desc_not_suitable": "Ihr Betriebssystem erfüllt nicht die Anforderungen für dieses Mod. Das Mod funktioniert möglicherweise nicht ordnungsgemäß und einige Funktionen könnten eingeschränkt sein. Diese Nachricht wird nur einmal angezeigt.",
+  "gui.close": "Schließen"
+}

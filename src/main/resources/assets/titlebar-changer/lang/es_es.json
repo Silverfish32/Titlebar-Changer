@@ -1,0 +1,23 @@
+{
+  "gui.titlebar_settings": "Configuración de la ventana",
+
+  "gui.window_theme_dark": "Tema: Oscuro",
+  "gui.window_theme_light": "Tema: Claro",
+  "gui.window_theme_custom": "Tema: Personalizado",
+  "gui.window_style_rectangular": "Esquina de la ventana: Rectangular",
+  "gui.window_style_default": "Esquina de la ventana: Predeterminada",
+  "gui.window_style_semi_rounded": "Esquina de la ventana: Semirredondeada",
+
+  "gui.set_titlebar_color": "Personalizar el color de la ventana",
+  "gui.set_titlebar_text_color": "Personalizar el color del texto de la ventana",
+  "gui.set_titlebar_stroke_color": "Personalizar el color del contorno de la ventana",
+
+  "gui.red": "Rojo",
+  "gui.green": "Verde",
+  "gui.blue": "Azul",
+
+  "gui.warning_title": "Advertencia",
+  "gui.warning_desc": "Tu sistema operativo tiene una versión anterior a la requerida para usar este mod. Algunas funciones pueden estar limitadas. Este mensaje se mostrará solo una vez.",
+  "gui.warning_desc_not_suitable": "Tu sistema operativo no cumple con los requisitos para este mod. El mod puede no funcionar correctamente y algunas funciones podrían estar limitadas. Este mensaje se mostrará solo una vez.",
+  "gui.close": "Cerrar"
+}

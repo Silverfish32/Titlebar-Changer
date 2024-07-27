@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "net.ittriy.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "AddWarnScreen",
+    "WindowCreateMixin",
+    "AddTitleBarSettingsButton"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "titlebarchanger.mixin-refmap.json"
+}

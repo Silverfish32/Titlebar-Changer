@@ -1,0 +1,23 @@
+{
+  "gui.titlebar_settings": "窗口设置",
+
+  "gui.window_theme_dark": "主题: 黑暗",
+  "gui.window_theme_light": "主题: 明亮",
+  "gui.window_theme_custom": "主题: 自定义",
+  "gui.window_style_rectangular": "窗口角: 矩形",
+  "gui.window_style_default": "窗口角: 默认",
+  "gui.window_style_semi_rounded": "窗口角: 半圆形",
+
+  "gui.set_titlebar_color": "自定义窗口颜色",
+  "gui.set_titlebar_text_color": "自定义窗口文字颜色",
+  "gui.set_titlebar_stroke_color": "自定义窗口描边颜色",
+
+  "gui.red": "红色",
+  "gui.green": "绿色",
+  "gui.blue": "蓝色",
+
+  "gui.warning_title": "警告",
+  "gui.warning_desc": "您的操作系统版本低于使用此模组所需的版本。一些功能可能会受到限制。此消息只会显示一次。",
+  "gui.warning_desc_not_suitable": "您的操作系统不符合此模组的要求。该模组可能无法正常运行，一些功能可能会受到限制。此消息只会显示一次。",
+  "gui.close": "关闭"
+}
